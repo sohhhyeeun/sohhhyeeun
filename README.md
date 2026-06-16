@@ -3,34 +3,46 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Soh%20Ye-eun&desc=Backend%20Developer&fontSize=70&descSize=35&fontAlign=50&fontAlignY=35&fontColor=444444" alt="header" />
 
 <p>
-사용자 중심의 가치를 실현하는 <b>👩🏻‍💻 백엔드 개발자 소예은</b>입니다.<br>
-안정성과 확장성을 갖춘 서비스를 만들며 끊임없이 소통하고 성장하겠습니다.
+사용자 관점에서 문제를 발견하고 데이터와 기술적 근거를 기반으로 해결하는 <b>👩🏻‍💻  백엔드 엔지니어 소예은</b>입니다.<br>
+**안정성과 확장성을 갖춘 서비스를 개발하기 위해** 동시성 제어, 데이터 모델링, 성능 최적화에 관심을 가지고 있습니다.
 </p>
 
 <br>
 
 <h3>📚 Tech Stack</h3>
+<h4>Language</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
+
+<h4>Backend</h4>
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=flat-square&logo=OAuth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 </p>
+
+<h4>Database</h4>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2 Database-003545?style=flat-square&logo=H2&logoColor=white"/>
 </p>
+
+<h4>AI & Computer Vision</h4>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 </p>
+
+<h4>Tools & Testing</h4>
 <p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
